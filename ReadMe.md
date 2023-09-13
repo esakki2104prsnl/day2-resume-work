@@ -3,7 +3,7 @@ Resume-Intern-Work
 Cyber Dude Network internship work
 
 Welcome to my personal resume website! This website serves as an online version of my resume, showcasing my skills, and qualifications. 
-You can view it live at [MyWebsiteURL.com](https://esakki2104prsnl.github.io/Resume-Intern-Work/).
+You can view it live at [MyWebsiteURL.com](https://esakki2104prsnl.github.io/day2-resume-work/).
 
 ## Table of Contents
 - [Overview](#overview)
