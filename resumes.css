@@ -21,7 +21,7 @@ h1 {
 }
 
 .container {
-  width: 70%;
+  width: 90%;
   background: #dfdfdf;
   display: flex;
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.45),
